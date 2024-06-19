@@ -1,0 +1,6 @@
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+nhietdodoam	KEYWORD2
+ABC	KEYWORD2

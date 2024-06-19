@@ -1,0 +1,6 @@
+Copyright (c) 2020 Adafruit Industries
+
+thư viện này được tạo ra vào ngày 5/2/2024 với mục đích học tập cũng như thử nghiệm một số tính năng của trang web tự tạo để thấy được sự tương tác của các board mạch nhúng với mạng internet 
+về bản quyền thì đây là sản phẩm đầu tay nên mã nguồn mở hoặc có thể là không hihi có lấy đi đâu thì cũng để lại một ít "NGUỒN" nhé BẠN :3
+
+Create by TuiTenThai 
